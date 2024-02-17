@@ -1,3 +1,8 @@
+# developer: Étranges Libellules
+# file type: files extracted from *.k?? archives
+# script type: sound archive extractor
+# note: vag or wav header, depending on signature (including PCM reversing for Wii ports)
+
 set REV 0
 idstring \x02\x08\x00\x00
 get FSIZE long
